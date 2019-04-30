@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapert4_element_github", "chapert4_element_github\chapert4_element_github.csproj", "{3603975C-606C-42D7-BDB4-F818DA7B2A91}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oreilly_Csharp_ch4_elephant", "chapert4_element_github\Oreilly_Csharp_ch4_elephant.csproj", "{3603975C-606C-42D7-BDB4-F818DA7B2A91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
